@@ -1,7 +1,7 @@
 ---
 title: For Researchers
 date: 2019-04-15 16:24:00 Z
-permalink: "/researchers"
+permalink: "/researchers/"
 layout: default
 ---
 
