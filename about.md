@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: default
 ---
 
-## What we hope to learn from this trial
+## What we hope to learn from this trial - TESTING
 
 ![What is the best treatment for GPA?](/img/icons/Qblue.gif)
 
