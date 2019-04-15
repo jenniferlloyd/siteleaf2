@@ -1,4 +1,5 @@
 ---
+title: TEDDIEEEEEE
 permalink: "/TEDDYfail/"
 layout: TEDDY
 ---
