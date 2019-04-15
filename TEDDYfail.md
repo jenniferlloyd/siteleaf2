@@ -3,6 +3,6 @@ layout: TEDDY
 permalink: /TEDDYfail/
 ---
 
-<h2>{{ site.data.TEDDYfail.title }}</h2> 
+## {{ site.data.TEDDYfail.title }}
 
 {{ site.data.TEDDYfail.content | markdownify }}
