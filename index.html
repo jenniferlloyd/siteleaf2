@@ -1,0 +1,39 @@
+---
+title: TAPIR
+layout: homepage
+---
+
+ <div class="largeimg" style="background-image: url({{site.data.home.banner.image}})">
+    <div class="container hero">
+                <div class="row">
+                    <div class="col-md-4 col-sm-5 col-md-offset-7 col-sm-offset-6 whitebg">
+                        <h3 align="center">{{site.data.home.banner.jointitle}}</h3>
+                        <button type="button" class="btn btn-lg btn-join btn-block" onclick="window.location.href='join/index.htm'">Join TAPIR</button>               
+                        <ul> 
+                            <li>For patients with diagnosed GPA</li>
+                            <li>Participate from anywhere - online!</li>                             
+                            <li>Must currently be in remission</li>                             
+                            <li>Continue to see your own doctor</li>
+                            <li> <strong>Now Open to Patients Taking Rituximab</strong></li>
+                        </ul>
+                        <p>*other conditions may apply. <a href="eligibility/index.htm">Learn more</a>.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container TAPIRinfo">
+            <div class="row">
+                <div class="col-sm-6 col-xs-12 col-md-5 col-md-offset-1 col-sm-offset-0 col-xs-offset-0">
+                    <img src="{{site.data.home.homeabout.icon}}" class="img-responsive icon hidden-xs">
+                    <h2>{{site.data.home.homeabout.title}}</h2> 
+                    <p>{{site.data.home.homeabout.text}}</p>
+                    <p>{{site.data.home.homeabout.link | markdownify }}</p>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-5">
+                    <img src="{{site.data.home.for_phys.icon}}" class="img-responsive icon hidden-xs" />
+                    <h2>{{site.data.home.for_phys.title}}</h2> 
+                    <p>{{site.data.home.for_phys.text}}</p>
+                    <p>{{site.data.home.for_phys.link | markdownify }}</p>
+                </div>
+            </div>
+        </div>
