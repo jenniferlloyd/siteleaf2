@@ -43,7 +43,7 @@ h3
 
 .largeimg
 {
-   /* background-image: url('../img/back3.jpg');*/
+  background-image: url('/img/back3.jpg');
     background-position: top;
     background-size: cover;
     padding-top: 2%;

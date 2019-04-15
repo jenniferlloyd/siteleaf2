@@ -1,9 +1,9 @@
 banner:
-  image: /media/uploads/back3.jpg
+  image: img/back3.jpg
   jointitle: Do you have GPA (Wegener's)? Are you taking prednisone between 5-20 mg?
 homeabout:
   link: '[Learn more about this trial >](/about/)'
-  icon: /media/uploads/clipboard.gif
+  icon: img/clipboard.gif
   text: >-
     The Assessment of Prednisone In Remission (TAPIR) trial is comparing two
     approaches to treatment - a low dose of prednisone, or no prednisone, for
