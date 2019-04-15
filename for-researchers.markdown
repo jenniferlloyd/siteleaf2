@@ -10,7 +10,6 @@ The TEDDY Study is committed to maximizing its contribution to the greater scien
 # Current TEDDY Invitations to Negotiate (ITN)
 
 * Epigenetics Lab
-
 * Addendum #1
 
 # Data Assets
@@ -21,57 +20,35 @@ for analysis by TEDDY and approved external investigators. Existing TEDDY clinic
 ### Clinical Metadata
 
 * Antibodies
-
 * Demographics
-
 * Diet
-
 * Genotypes
-
 * Case-Control Indicators
-
 * Household Exposures
-
 * Medications
-
 * Medical History
-
 * Family History
-
 * Pre and Perinatal Exposures
-
 * Psychosocial Stressors
 
 ### 'Omics Analytes
 
 * Dietary Biomarkers
-
 * Exome
-
 * Gene Expression
-
 * Lipidomics
-
 * Metabolomics
-
 * Microbiome and Metagenomics
-
 * Proteomics
-
 * RNA Sequencing
-
 * SNPs
-
 * Whole Genome Sequencing
 
 ### Documentation
 
 * TEDDY Clinical Metadata Overview
-
 * TEDDY Clinical Metadata Collection Summary
-
 * TEDDY ‘Omics Data Overview
-
 * TEDDY 'Omics Case-Control Data Summary
 
 # Data Sharing
