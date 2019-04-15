@@ -1,6 +1,6 @@
 ---
+permalink: "/TEDDYfail/"
 layout: TEDDY
-permalink: /TEDDYfail/
 ---
 
 ## {{ site.data.TEDDYfail.title }}

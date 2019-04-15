@@ -1,7 +1,7 @@
 ---
-layout: default
 title: What we are studying
-permalink: /about/
+permalink: "/about/"
+layout: default
 ---
 
 ## What we hope to learn from this trial
