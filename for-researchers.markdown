@@ -7,17 +7,18 @@ layout: default
 
 The TEDDY Study is committed to maximizing its contribution to the greater scientific community. Beyond published findings, the TEDDY Study may also offer researchers everything from methods and technologies developed on study to the actual data and samples collected from participants.
 
-# Current TEDDY Invitations to Negotiate (ITN)
+## Current TEDDY Invitations to Negotiate (ITN)
 
 * Epigenetics Lab
+
 * Addendum #1
 
-# Data Assets
+## Data Assets
 
 A variety of different data types are collected as a part of the TEDDY study, including clinical metadata and laboratory test result data across various 'omics analytes. The TEDDY Data Coordinating Center (DCC) manages, curates, integrates, and provisions these data assets
 for analysis by TEDDY and approved external investigators. Existing TEDDY clinical and ‘omics data assets are summarized below and detailed in the linked documents.
 
-### Clinical Metadata
+**Clinical Metadata**
 
 * Antibodies
 * Demographics
@@ -31,7 +32,7 @@ for analysis by TEDDY and approved external investigators. Existing TEDDY clinic
 * Pre and Perinatal Exposures
 * Psychosocial Stressors
 
-### 'Omics Analytes
+**'Omics Analytes**
 
 * Dietary Biomarkers
 * Exome
@@ -44,14 +45,14 @@ for analysis by TEDDY and approved external investigators. Existing TEDDY clinic
 * SNPs
 * Whole Genome Sequencing
 
-### Documentation
+**Documentation**
 
 * TEDDY Clinical Metadata Overview
 * TEDDY Clinical Metadata Collection Summary
 * TEDDY ‘Omics Data Overview
 * TEDDY 'Omics Case-Control Data Summary
 
-# Data Sharing
+## Data Sharing
 
 The TEDDY Study has adopted policies and procedures in support of its
 commitment to sharing data with the scientific community while also protecting
@@ -87,7 +88,7 @@ ancillary study following the submission and approval of a proposal to the
 TEDDY Ancillary Studies Committee. Please email TEDDY@epi.usf.edu for more
 details.
 
-# Data Infrastructure
+## Data Infrastructure
 
 In its role as the TEDDY DCC, the USF Health Informatics Institute (HII) has
 developed a comprehensive platform for the acquisition, management,
@@ -103,43 +104,30 @@ developed and employed in support of the TEDDY study. More information can be
 found in the HII Data Infrastructure slides, hdExchange Platform Overview
 document, or by emailing TEDDY@epi.usf.edu.
 
-# Additional Documentation
+## Additional Documentation
 
 **Study Overview**
 
 * TEDDY Manual of Operations (35 MB)
-
 * TEDDY Protocol
-
 * TEDDY Follow-Up Schedule
-
 * TEDDY Nested Case-Control Study Design
-
 * T1D Endpoints Summary
-
 * Celiac Endpoints Summary
-
 * Thyroid Antibodies Summary
 
 **Sample and Assay Details**
 
 * TEDDY Blood Sampling Frequency and Volumes
-
 * Human Recombinant Insulin Autoantibody Immuno-Radioassay Protocol
-
 * Human Recombinant TG In Vitro Translation & Autoantibody Immuno-Radioassay
   Protocol
-
 * Human Recombinant IA-2 In Vitro Translation & Autoantibody Immuno-Radioassay
   Protocol
-
 * Human Recombinant GAD-65 In Vitro Translation & Autoantibody
   Immuno-Radioassay Protocol
-
 * Standard IA2A, GADA and ZnT8A Assays
-
 * Insulin Autoantibody Assays
-
 * TG Autoantibody Assays
 
 *PDF Viewer Required*
