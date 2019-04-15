@@ -1,5 +1,5 @@
 ---
-title: TEDDIEEEEEE
+title: teddieeee (FAIL)
 permalink: "/TEDDYfail/"
 layout: TEDDY
 ---
