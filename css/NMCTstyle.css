@@ -1,0 +1,270 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+body
+{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.btn
+{
+    border-radius: 0;
+}
+
+.btn-join
+{
+    background-color: #e5ca34;
+    color: #fbf7f7;
+    font-weight: bold;
+    border-radius: 0;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+h3
+{
+    color: #333D62;
+}
+
+.login
+{
+    background-color: #333D62;
+    color: #FFF;
+    text-align: right;
+    font-size: 85%;
+    padding-bottom: 0;
+    padding-right: 1%;
+    padding-top: 1%;
+    left: 0;
+    right: 0;
+    margin: 0;
+}
+
+.largeimg
+{
+   /* background-image: url('../img/back3.jpg');*/
+    background-position: top;
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.navbar
+{
+    min-height: 80px;
+    background-color: #FFF;
+    margin-bottom: 0;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.navbar-header
+{
+    background-color: #FFF;
+}
+
+.navbar-brand
+{
+    padding: 1%;
+    margin-top: 2%;
+}
+
+footer img.filter {
+  -webkit-filter: grayscale(100%) opacity(.7);
+  filter: grayscale(100%) opacity(.7);
+  filter: gray; /*IE 6-9*/
+  -webkit-transition: filter 0.3s, -webkit-filter: 0.3s;
+  -moz-transition: filter 0.3s;
+  -o-transition: filter 0.3s;
+  transition: filter 0.3s;
+}
+
+footer img:hover
+{
+    -webkit-filter: initial;
+    filter: initial;
+}
+
+footer .img-responsive
+{
+    display: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1%;
+    max-height: 55px;
+}
+
+footer
+{
+    background: #F5F6F8;
+    right: 0;
+    left: 0;
+    padding: 1% 0;
+    color: #aeafb1;
+}
+
+@media (max-width: 480px)
+{
+    footer
+    {
+        bottom: inherit;
+        margin-bottom: inherit;
+        position: inherit;
+    }
+}
+
+a
+{
+    color: #23989b;
+    font-weight: bold;
+}
+
+.icon
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+footer a
+{
+    color: #aeafb1;
+}
+
+.TAPIRinfo
+{
+    margin-top: 2%;
+}
+
+@media (max-width:480px)
+{
+    .TAPIRinfo div
+    {
+        border-bottom: solid 1px #eee;
+    }
+}
+
+.TAPIRquestions
+{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-image: url('../img/Qmark.png');
+    background-repeat: no-repeat;
+    background-position: 35%;
+    border-top: solid 1px #eee;
+}
+
+.whitebg
+{
+    background-image: url('../img/white-trans2.png');
+}
+
+.login a
+{
+    color: #ffffff !important;
+}
+
+.foot_links li
+{
+    display: inline;
+    padding: 1%;
+}
+
+.navbar-default .navbar-nav > li > a
+{
+    color: #333D62;
+    font-weight: normal;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus
+{
+    color: #10448f;
+    background-color: transparent;
+}
+
+.topborderwhite
+{
+    border-top: solid 2px #fff;
+    padding-top: 1%;
+}
+
+.TAPIRquestions {
+   
+      -webkit-filter: grayscale(100%) opacity(.7);
+  filter: grayscale(100%) opacity(.7);
+  filter: gray; /*IE 6-9*/
+  -webkit-transition: filter 0.3s, -webkit-filter: 0.3s;
+  -moz-transition: filter 0.3s;
+  -o-transition: filter 0.3s;
+  transition: filter 0.3s;
+}
+
+.TAPIRquestions:hover
+{
+    -webkit-filter: initial;
+    filter: initial;
+}
+
+.navbar-right
+{
+    margin-top: 1%;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form
+{
+    font-size: 115%;
+}
+
+.btn-join:hover
+{
+    color: #ffffff;
+    background-color: #efcc04;
+}
+
+.TAPIRnav
+{
+    padding-top: 2%;
+}
+
+.TAPIRnav a
+{
+    color: #333D62;
+    font-weight: normal;
+}
+
+.TAPIRcontent
+{
+    border-left: solid 1px #ddd;
+    padding-bottom: 1%;
+}
+
+h1,h2,h3,h4
+{
+    color: #333D62;
+}
+
+.TAPIRnav a:hover
+{
+    color: #23989b;
+}
+
+.TAPIRnav li
+{
+    list-style-type: none;
+}
+
+.shadow
+{
+    -webkit-box-shadow: 5px 60px 69px -61px rgba(173,173,173,1);
+    -moz-box-shadow: 5px 60px 69px -61px rgba(173,173,173,1);
+    box-shadow: 5px 60px 69px -61px rgba(173,173,173,1);
+}
+
+footer a:hover
+{
+    text-decoration: none;
+    color: #6DBABC;
+}
+

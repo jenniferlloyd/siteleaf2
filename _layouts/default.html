@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+   {% include head.html %}
+    <body>
+          {% include nav.html %}
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3 TAPIRnav hidden-print hidden-xs"> 
+                   {% include insidenav.html %}
+                </div>
+                <div class="col-sm-9 TAPIRcontent"> 
+				 <h1>{{ page.title }}</h1>
+				  <p></p>
+{{content}}
+                </div>
+            </div>
+        </div>
+       {% include join.html %}
+       {% include bottom.html %}
+    </body>
+</html>

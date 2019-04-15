@@ -1,0 +1,18 @@
+banner:
+  image: /media/uploads/back3.jpg
+  jointitle: Do you have GPA (Wegener's)? Are you taking prednisone between 5-20 mg?
+homeabout:
+  link: '[Learn more about this trial >](/about/)'
+  icon: /media/uploads/clipboard.gif
+  text: >-
+    The Assessment of Prednisone In Remission (TAPIR) trial is comparing two
+    approaches to treatment - a low dose of prednisone, or no prednisone, for
+    patients with granulomatosis with polyangiitis (GPA, Wegener's).
+  title: About the TAPIR Trial.
+for_phys:
+  link: '[Get the facts >](#)'
+  icon: img/icons/doctor.gif
+  text: >-
+    More about our goals and the methods used in this trial. Meet our study
+    team.
+  title: Information for physicians

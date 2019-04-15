@@ -1,0 +1,179 @@
+title: TEDDY Information for Researchers
+content: >-
+  <p>The TEDDY Study is committed to maximizing its contribution to the greater
+  scientific community. Beyond <a href="../news/index.htm">published
+  findings</a>, the TEDDY Study may also offer researchers everything from <a
+  href="#documentation">methods</a> and <a
+  href="#infrastructure">technologies</a> developed on study to the actual <a
+  href="#datacollect">data</a> and samples collected from participants.</p>
+
+  <h2>Current TEDDY Invitations to Negotiate (ITN):</h2>
+
+  <p><a
+  href="https://www.usf.edu/business-finance/purchasing/public-bids/bid-documents/19-17-mh-epigenetics-lab.pdf"
+  target="_blank">Epigenetics Lab</a></p>
+
+  <p><a
+  href="https://www.usf.edu/business-finance/purchasing/public-bids/bid-documents/19-17-mh-ad1.pdf"
+  target="_blank">Addendum #1</a></p>
+
+  <p><a id="datacollect"></a> </p>
+
+  <h2>Data Assets</h2>
+
+  <p>A variety of different data types are collected as a part of the TEDDY  
+  study, including clinical metadata and laboratory test result data   across
+  various 'omics analytes. The TEDDY Data Coordinating Center (DCC)   manages,
+  curates, integrates, and provisions these data assets for   analysis by TEDDY 
+  and approved external investigators. Existing TEDDY clinical and ‘omics data  
+  assets are summarized below and detailed in the linked documents.</p>
+
+  <table class="doctable" width="95%" cellspacing="5" cellpadding="0"
+  border="0">
+    <tbody><tr>
+      <th width="162" valign="top"><h4>Clinical Metadata:</h4></th>
+      <th width="169" valign="top"><h4>'Omics Analytes:</h4></th>
+      <th width="213" valign="top"><h4>Documentation:</h4></th>
+    </tr>
+    <tr>
+      <td width="162" valign="top"><ul>
+          <li>Antibodies </li>
+          <li>Demographics </li>
+          <li>Diet </li>
+          <li>Genotypes </li>
+          <li>Case-Control Indicators </li>
+          <li>Household Exposures </li>
+          <li>Medications </li>
+          <li>Medical History </li>
+          <li>Family History </li>
+          <li>Pre and Perinatal Exposures </li>
+          <li>Psychosocial Stressors</li>
+      </ul></td>
+      <td width="169" valign="top"><ul>
+          <li>Dietary Biomarkers </li>
+          <li>Exome </li>
+          <li>Gene Expression </li>
+          <li>Lipidomics </li>
+          <li>Metabolomics </li>
+          <li>Microbiome and Metagenomics </li>
+          <li>Proteomics </li>
+          <li>RNA Sequencing </li>
+          <li>SNPs </li>
+          <li>Whole Genome Sequencing </li>
+      </ul></td>
+      <td width="213" valign="top"><ul>
+        <li><a href="../documents/TEDDYClinicalMetadataOverview.pdf" target="_blank">TEDDY Clinical Metadata Overview</a></li>
+        <li><a href="https://teddy.epi.usf.edu/webapp/teddyreports/reports/01042018_266_I.7%20TEDDY%20Clinical%20Metadata.rtf" target="_blank">TEDDY Clinical Metadata Collection Summary </a></li>
+        <li><a href="../documents/TEDDYOmicsDataOverview.docx" target="_blank">TEDDY ‘Omics Data Overview</a></li>
+        <li><a href="https://teddy.epi.usf.edu/webapp/teddyreports/reports/11102017_266_I.6%20TEDDY%20Omics%20Data.rtf" target="_blank">TEDDY 'Omics Case-Control Data Summary</a></li>
+      </ul></td>
+    </tr>
+  </tbody></table>
+
+  <h2><a id="datashare"></a></h2>
+
+  <h2>Data Sharing </h2>
+
+  The TEDDY Study has adopted policies and   procedures in support of its
+  commitment to sharing data with the   scientific community while also
+  protecting the privacy of participants.   In accordance with the <a
+  href="../documents/TEDDYDataSharingPolicy.docx" target="_blank">TEDDY Data
+  Sharing Policy</a>,   data are made publicly available via designated
+  controlled-access data   repositories. A detailed listing of publicly
+  available TEDDY data assets   and instructions for accessing them via the
+  relevant data repositories   can be found in the links below. These data
+  releases have been submitted at different time points and to   various
+  repositories, depending on NIH requirements and the nature of   the data. 
+  Each submission is treated as an independent release,   possessing uniquely
+  masked subject and sample identifiers. Researchers   may desire to combine
+  data across these releases for analysis, but are   unable to do so as a result
+  of the independently masked identifiers. The   NIDDK repository can now
+  provide repository data release identifier   mapping materials to satisfy this
+  demand once the investigators have   received approval to access the data. In
+  addition, external   investigators can obtain access to TEDDY 'omics data and
+  the TEDDY Web   Portal for analysis (see Data Infrastructure below) via
+  application to   the TEDDY Ancillary Studies Committee.
+
+  <ul>
+    <li><a href="../documents/TEDDY_NIH_Data_Repository_Submissions.pdf" target="_blank">TEDDY NIH Data Repository Submissions</a></li>
+    <li>Data Request Instructions
+      <ul>
+        <li><a href="https://dbgap.ncbi.nlm.nih.gov/aa/dbgap_request_process.pdf" target="_blank">The database of Genotypes and Phenotypes (dbGAP)</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://repository.niddk.nih.gov/pages/overall_instructions/" target="_blank">The NIDDK Central Repository</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://www.ncbi.nlm.nih.gov/books/NBK56558" target="_blank">The Sequence Read Archive (SRA)</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <p>TEDDY samples can also be made available to researchers as part of an <a
+  href="../documents/ancillary/TEDDYAncillaryStudiesDefandGuidelines.pdf"
+  target="_blank">ancillary study</a> following the submission and approval of a
+  proposal to the TEDDY Ancillary Studies Committee. Please email <a
+  href="mailto:TEDDY@epi.usf.edu">TEDDY@epi.usf.edu</a> for more details.</p>
+
+  <hr>
+
+  <h2><a id="infrastructure"></a></h2>
+
+  <h2>Data Infrastructure</h2>
+
+  <p>In its role as the TEDDY DCC, the USF Health Informatics Institute (HII)
+  has developed a comprehensive platform for the acquisition, management,
+  integration, analysis, and sharing of scientific data assets, particularly for
+  the Big Data associated with ‘omics research. Access to this data
+  infrastructure for TEDDY  and approved external investigators is secured
+  through advanced authentication and an integrated, token-based security model
+  with data encryption. All identifiers are removed or dynamically masked to
+  ensure research integrity and privacy of participants. </p>
+
+  <p>The figure below depicts the various components of the data infrastructure
+  developed and employed in support of the TEDDY study. More information can be
+  found in the <a href="../documents/HII_Data_Infrastructure_TEDDY.ppt"
+  target="_blank">HII Data Infrastructure slides</a>, <a
+  href="../documents/hdExchangePlatformOverview.pdf" target="_blank">hdExchange
+  Platform Overview document</a>, <a
+  href="https://usf-hii.github.io/pages/hii-hpc.html" target="_blank"></a>or by
+  emailing <a href="mailto:TEDDY@epi.usf.edu">TEDDY@epi.usf.edu</a>.</p>
+
+  <p><img src="../images/data_diagram.png" alt="" class="img-fluid"></p>
+
+  <hr>
+
+  <p><a id="documentation"></a> </p>
+
+  <h2>Additional Documentation </h2>
+
+  <p><strong>Study Overview</strong></p>
+
+  <ul>
+    <li><a href="../documents/TEDDY_MOO.pdf" target="_blank">TEDDY Manual of Operations</a> (35 MB)</li>
+    <li><a href="../documents/TEDDY_Protocol.pdf" target="_blank">TEDDY Protocol</a> </li>
+    <li><a href="https://teddy.epi.usf.edu/documents/ancillary/TEDDYFollow-upSchedule.pdf" target="_blank">TEDDY Follow-Up Schedule</a> </li>
+    <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4058423/" target="_blank">TEDDY Nested Case-Control Study Design</a> </li>
+    <li><a href="https://teddy.epi.usf.edu/webapp/teddyreports/reports/04132011_266_I.2%20Enrollment%20and%20Retention.htm" target="_blank">T1D Endpoints Summary</a> </li>
+    <li><a href="https://teddy.epi.usf.edu/webapp/teddyreports/reports/10232017_266_I.5%20Celiac.htm" target="_blank">Celiac Endpoints Summary</a> </li>
+    <li><a href="https://teddy.epi.usf.edu/webapp/teddyreports/reports/10232017_266_I.4%20Thyroid%20Autoantibody.htm" target="_blank">Thyroid Antibodies Summary </a></li>
+  </ul>
+
+  <p><strong>Sample and Assay Details</strong></p>
+
+  <ul>
+    <li><a href="../documents/ancillary/TEDDYBloodSamplingFrequencyandVolumes.pdf" target="_blank">TEDDY Blood Sampling Frequency and Volumes</a> </li>
+    <li><a href="../documents/ancillary/DenverSOP-mIAA.pdf" target="_blank">Human Recombinant Insulin Autoantibody Immuno-Radioassay Protocol</a> </li>
+    <li><a href="../documents/ancillary/DenverSOP-TgAb.pdf" target="_blank">Human Recombinant TG In Vitro Translation &amp; Autoantibody Immuno-Radioassay Protocol</a> </li>
+    <li><a href="../documents/ancillary/DenverSOP-IA2Ab.pdf" target="_blank">Human Recombinant IA-2 In Vitro Translation &amp; Autoantibody Immuno-Radioassay Protocol</a> </li>
+    <li><a href="../documents/ancillary/DenverSOP-GAD65Ab.pdf" target="_blank">Human Recombinant GAD-65 In Vitro Translation &amp; Autoantibody Immuno-Radioassay Protocol</a> </li>
+    <li><a href="../documents/ancillary/BristolprotocolforStdIA2AGADAandZnT8Aassays.pdf" target="_blank">Standard IA2A, GADA and ZnT8A Assays</a><br>
+    </li>
+    <li><a href="../documents/ancillary/BristolprotocolforIAAautoantibodyassays.pdf" target="_blank">Insulin Autoantibody Assays</a><br>
+    </li>
+    <li><a href="../documents/ancillary/BristolprotocolforTGautoantibodyassays.pdf" target="_blank">TG Autoantibody Assays</a></li>
+  </ul>
+
+  <h4>&nbsp;</h4>
+
+  <p>PDF Viewer Required</p>
